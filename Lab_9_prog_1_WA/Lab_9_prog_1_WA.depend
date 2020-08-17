@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587681973 source:c:\users\will\desktop\school\programming stuff\lab_9_prog_1_wa\main.c
+	<stdio.h>
+	<winsock2.h>
+
+1589356417 source:c:\users\willo\desktop\school\programming stuff\lab_9_prog_1_wa\main.c
+	<stdio.h>
+	<winsock2.h>
+

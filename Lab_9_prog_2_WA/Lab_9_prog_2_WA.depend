@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587684737 source:c:\users\will\desktop\school\programming stuff\lab_9_prog_2_wa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540194948 source:c:\users\will\desktop\stuff\programming stuff\lab_5_william_ayers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lab5header.c"
+
+1540195319 c:\users\will\desktop\stuff\programming stuff\lab_5_william_ayers\lab5header.c
+

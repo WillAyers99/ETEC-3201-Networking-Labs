@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586756574 source:c:\users\will\desktop\stuff\programming stuff\lab_7_client\main.c
+	<stdio.h>
+	<winsock2.h>
+
+1586804501 source:c:\users\will\desktop\school\programming stuff\lab_7_william_ayers\lab_7_client\main.c
+	<stdio.h>
+	<winsock2.h>
+

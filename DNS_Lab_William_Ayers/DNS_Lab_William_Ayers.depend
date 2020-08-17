@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587494335 source:c:\users\will\desktop\stuff\programming stuff\dns_lab_william_ayers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
